@@ -1,0 +1,13 @@
+venv/
+data/
+logs/
+model/
+configs/
+packages/
+notebooks/
+.vscode
+__pycache__
+*.json
+#*.txt
+*.log
+*.csv
